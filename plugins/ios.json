@@ -1,0 +1,100 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.darktalker.cordova.screenshot": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "com.telerik.plugins.nativepagetransitions": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-build-architecture": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-actionsheet": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-cookieemperor": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-secure-storage": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-spinner": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-wkwebview-engine-nextgen": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-x-socialsharing": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    },
+    "cordova-sqlite-storage-pgb": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "nl.ciber.smoelenboek"
+    }
+  }
+}
